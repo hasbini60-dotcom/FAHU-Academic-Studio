@@ -1,0 +1,2 @@
+Copyright (c) 2026 Rami Hassbini. All rights reserved unless a separate LICENSE is added.
+Do not upload or redistribute the ASHRAE Handbook PDF to a public repository without permission.
